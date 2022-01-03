@@ -28,3 +28,9 @@ img{
     margin-right: auto;
     display: block;
 }
+span{
+    position:absolute;                 
+    bottom:0;                         
+    left:30%;
+    right: 30%;
+}
