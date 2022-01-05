@@ -4,7 +4,7 @@
 <h1 align="center">
   D-NOTIFIER
 </h1>
-<p align="center">A self controlled dynamic API based web browser extension</a> built by<a href="https://mrsahil.in/" target="_blank">Sahil Kumar</a>
+<p align="center">A self controlled dynamic API based web browser extension</a> built by <a href="https://mrsahil.in/" target="_blank">Sahil Kumar</a>
 </p>
 
 ## How It Works?
