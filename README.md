@@ -8,7 +8,7 @@
 </p>
 
 ## How It Works?
-It's basically a dynamic web browser extension that can display notifications with the help of a self controlled dynamic API.
+It's basically a dynamic web browser extension that can display notifications with the help of an admin-controlled dynamic API.
 
 - To push any notificatin admin have to login API admin pannel using secret ID and password!
 ![demo](https://cdn.discordapp.com/attachments/864941867220074497/928260852568690688/api-admin-pannel.jpg)
